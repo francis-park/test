@@ -1,4 +1,6 @@
-﻿[ ] use "..\..\CaseWare.inc"
+﻿[ ] // 4TestTutorials.t
+[ ] // Author: Minuk Park
+[ ] use "..\..\CaseWare.inc"
 [ ] use "..\..\CaseView.inc"
 [ ] use "C:\SilkTestCode\silktestclassic\zz_Reorg\Common Files\FileSetup.inc"
 [ ] 
