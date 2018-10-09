@@ -1,0 +1,76 @@
+﻿[ ] //
+[ ] // Title:		SilkTest Tutorial
+[ ] // FileName:	tutorial.pln
+[ ] // Author:		Minuk Park (minuk.park@caseware.com)
+[ ] // Created: 	Oct 4, 2018
+[ ] //
+[ ] // Updated by:
+[ ] // Updated on:
+[ ] //
+[ ] // --Notes--
+[ ] // Test Plan for SilkTest tutorial.
+[ ] //
+[ ] 
+[+] Setup Tests
+	[ ] script: 4TestTutorials.t
+	[ ] testcase: setup
+[ ] 
+[+] Part 5
+	[ ] script: 4TestTutorials.t
+	[+] Open Client Profile #1
+		[ ] testcase: part5a
+	[+] Open Client Profile #2
+		[ ] testcase: part5b
+	[+] Open Client Profile #3
+		[ ] testcase: part5c
+[ ] 
+[+] Part 6
+	[ ] script: 4TestTutorials.t
+	[+] Update the Operating Name
+		[ ] testcase: part6a
+	[+] Verify the Working Papers Status Bar
+		[ ] testcase: part6b
+[ ] 
+[+] Part 7
+	[ ] script: 4TestTutorials.t
+	[+] Check some boxes in the Year End Close dialog and verify they remain checked.
+		[ ] testcase: part7a
+[ ] 
+[+] Part 8
+	[ ] script: 4TestTutorials.t
+	[+] Get some window/control information from the Year End Close Dialog
+		[ ] testcase: part8a
+[ ] 
+[+] Part 9
+	[ ] script: 4TestTutorials.t
+	[+] Log warnings for enabled children
+		[ ] testcase: part9a
+[ ] 
+[+] Part 10
+	[ ] script: 4TestTutorials.t
+	[+] Click a button that can't be located
+		[ ] testcase: part10a
+[ ] 
+[+] Part 11
+	[ ] script: 4TestTutorials.t
+	[+] Update the Operating Name in CaseView and verify in Working Papers
+		[ ] testcase: part11a
+	[+] Update font in CaseView
+		[ ] testcase: part11b
+[ ] 
+[+] Part 12
+	[ ] script: 4TestTutorials.t
+	[+] Backup some files
+		[ ] testcase: part12a
+	[+] Edit the registry
+		[ ] testcase: part12b
+[ ] 
+[+] Part 13
+	[ ] script: 4TestTutorials.t
+	[+] Perform opening and closing multiple dialog boxes
+		[ ] testcase: part13a
+[ ] 
+[+] Shut Down Tests
+	[ ] script: 4TestTutorials.t
+	[ ] testcase: shutdown
+[ ] 
